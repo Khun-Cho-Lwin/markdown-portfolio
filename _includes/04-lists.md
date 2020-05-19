@@ -8,6 +8,6 @@
 
 ##### What kind of type do you love?
 
-- [ ] Bengal cat 
-- [ ] Sphynx cat
-- [ ] Ragdoll
+- [ ]  Bengal cat 
+- [ ]  Sphynx cat
+- [ ]  Ragdoll
