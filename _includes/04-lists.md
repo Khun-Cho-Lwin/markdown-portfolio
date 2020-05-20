@@ -1,4 +1,4 @@
-### There are a lot of cat type.:cat:
+### There are a lot of cat type. :+1:
 - **Persian cat**
 - *Siamese cat*
 - ***Savannah cat***
